@@ -1,0 +1,279 @@
+
+
+.head{
+    border-radius: 100px;
+    width: 100px;
+    height: 100px;
+    background-color: antiquewhite;
+}
+
+.eyebrow-left{
+    background-color: black;
+    border-radius: 100px;
+    width: 20px;
+    height: 10px;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+
+.eyebrow-right{
+    background-color: black;
+    border-radius: 100px;
+    width: 20px;
+    height: 10px;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 60px;
+}
+
+.eye-left{
+    background-color: black;
+    border-radius: 100px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    margin-top: 43px;
+    margin-left: 20px;
+}
+
+.eye-right{
+    background-color: black;
+    border-radius: 100px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    margin-top: 43px;
+    margin-left: 60px;
+}
+
+.mouth{
+    background-color: black;
+    position: absolute;
+    margin-top: 70px;
+    width: 50px;
+    border-radius: 50px;
+    height: 20px;
+    margin-left: 26px;
+}
+
+.mouth1{
+    background-color: red;
+    position: absolute;
+    margin-top: 70px;
+    width: 20px;
+    height: 15px;
+    border-radius: 2px;
+    margin-left: 42px;
+}
+
+.body{
+    background-color: blue;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-left: 1px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.right-hand{
+    background-color: antiquewhite;
+    height: 100px;
+    width: 50px;
+    margin-left: 100px;
+    position: absolute;
+    border-top-right-radius: 20px;
+}
+
+
+.left-hand{
+    background-color: antiquewhite;
+    height: 100px;
+    width: 50px;
+    position: absolute;
+    border-top-right-radius: 20px;
+}
+
+
+.leg-left{
+    width: 50px;
+    height: 100px;
+    background-color: black;
+    margin-top: 100px;
+    margin-left: 1px;
+    position: absolute;
+}
+
+.leg-right{
+    width: 50px;
+    height: 100px;
+    background-color: black;
+    margin-top: 100px;
+    margin-left: 50px;
+    border-left: 1px solid white;
+    position: absolute;
+}
+
+.container{
+    margin-left: 250px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.hairgirl{
+   background-color: pink;
+   width: 20px;
+   border-radius: 100px;
+   height: 20px;
+   position: absolute;
+}
+
+.hairgirl1{
+    background-color: pink;
+    width: 20px;
+    border-radius: 100px;
+    height: 20px;
+    margin-left: 20px;
+    position: absolute;
+}
+
+.hairgirl2{
+    background-color: pink;
+    width: 20px;
+    border-radius: 100px;
+    height: 20px;
+    margin-left: 40px;
+    position: absolute;
+}
+
+.hairgirl3{
+    background-color: pink;
+    width: 20px;
+    border-radius: 100px;
+    height: 20px;
+    margin-left: 60px;
+    position: absolute;
+}
+
+.hairgirl4{
+    background-color: pink;
+    width: 20px;
+    border-radius: 100px;
+    height: 20px;
+    margin-left: 80px;
+    position: absolute;
+}
+
+.headgirl{
+    border-radius: 100px;
+    width: 100px;
+    height: 100px;
+    background-color: antiquewhite;
+}
+
+.eyebrow-leftgirl{
+    background-color: black;
+    border-radius: 100px;
+    width: 20px;
+    height: 10px;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+
+.eyebrow-rightgirl{
+    background-color: black;
+    border-radius: 100px;
+    width: 20px;
+    height: 10px;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 60px;
+}
+
+.eye-leftgirl{
+    background-color: black;
+    border-radius: 100px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    margin-top: 43px;
+    margin-left: 20px;
+}
+
+.eye-rightgirl{
+    background-color: black;
+    border-radius: 100px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    margin-top: 43px;
+    margin-left: 60px;
+}
+
+.mouthgirl{
+    background-color: red;
+    position: absolute;
+    margin-top: 70px;
+    width: 50px;
+    height: 10px;
+    border-radius: 2px;
+    margin-left: 25px;
+    border-radius: 50px;
+}
+
+
+.bodygirl{
+    background-color: pink;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-left: 1px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.right-handgirl{
+    background-color: antiquewhite;
+    height: 100px;
+    width: 50px;
+    margin-left: 100px;
+    position: absolute;
+    border-top-right-radius: 20px;
+}
+
+
+.left-handgirl{
+    background-color: antiquewhite;
+    height: 100px;
+    width: 50px;
+    position: absolute;
+    border-top-right-radius: 20px;
+}
+
+
+.leg-leftgirl{
+    width: 50px;
+    height: 100px;
+    background-color:  pink;
+    margin-top: 100px;
+    margin-left: 1px;
+    position: absolute;
+}
+
+.leg-rightgirl{
+    width: 50px;
+    height: 100px;
+    background-color: pink;
+    margin-top: 100px;
+    margin-left: 50px;
+    border-left: 1px solid white;
+    position: absolute;
+}
+
+.container2{
+    margin-left: 200px;
+}
